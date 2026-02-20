@@ -1,5 +1,6 @@
 
 SQL Music Store Analysis Project
+
 📌 Project Overview
 
 This project is based on the Chinook (Music Store) Database.
@@ -89,33 +90,8 @@ This project demonstrates strong command over:
 
 ---
 
-## 🚀 How to Run the Project
 
-1. Download the Chinook database
-2. Import it into:
-
-   * SQLite / PostgreSQL / MySQL
-3. Open SQL editor
-4. Execute queries from:
-
-   * `easy.sql`
-   * `moderate.sql`
-   * `advanced.sql`
-
----
-
-## 📁 Project Structure
-
-```
-📦 Chinook-SQL-Analysis
- ┣ 📜 easy.sql
- ┣ 📜 moderate.sql
- ┣ 📜 advanced.sql
- ┗ 📜 README.md
-```
-
----
-
+-
 ## 🎯 Skills Demonstrated
 
 * Data Analysis using SQL
